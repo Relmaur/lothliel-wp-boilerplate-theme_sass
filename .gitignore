@@ -1,0 +1,5 @@
+**/.DS_Store
+/assets/node_modules
+assets/package-lock.json
+mix-manifest.json
+assets/static
