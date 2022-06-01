@@ -1,6 +1,6 @@
 # Lothliel WP Theme Boilerplate
 
-On the project folder type in the terminal:
+On the project assets/ folder type in the terminal:
 ```bash
 npm install
 ```
